@@ -22,8 +22,8 @@ function Albumn(props) {
     ]
     return (
         <div>
-            <h2>Có thể bạn sẽ thích đấy</h2>
-            <Albumlist albumList = {albumList} />
+            <h2>Có thể bạn sdsgdsgdsgi thích đấy</h2>
+            <Albumlist albumList={albumList} />
         </div>
     );
 }
